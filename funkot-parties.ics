@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//yasuyuki//Funkot Parties//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Funkot Parties
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:mogra-funkot-matsuri-2026@funkot-parties.yasuyuki
+DTSTAMP:20260904T234955Z
+DTSTART;TZID=Asia/Tokyo:20260321T140000
+DTEND;TZID=Asia/Tokyo:20260321T200000
+SUMMARY:大MOGRAファンコットまつり2026
+LOCATION:秋葉原MOGRA
+DESCRIPTION:DOOR 2500円+1Drink / U20 2000円+1Drink\nhttps://club-mogra.jp/2026/03/21/8748/\nsource: club-mogra.jp
+URL:https://club-mogra.jp/2026/03/21/8748/
+END:VEVENT
+BEGIN:VEVENT
+UID:season-of-funkot-2026-summer@funkot-parties.yasuyuki
+DTSTAMP:20260904T234955Z
+DTSTART;TZID=Asia/Tokyo:20260815T150000
+DTEND;TZID=Asia/Tokyo:20260815T200000
+SUMMARY:Season of Funkot 夏の陣
+LOCATION:Asakusa STELLA
+DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26夏\nhttps://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/\nsource: djeventsearch / X @jamojisan1428
+URL:https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/
+END:VEVENT
+END:VCALENDAR

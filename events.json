@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "timezone": "Asia/Tokyo",
+  "updated_at": "2026-09-04T23:49:55.859943+00:00",
+  "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
+  "events": [
+    {
+      "id": "mogra-funkot-matsuri-2026",
+      "summary": "大MOGRAファンコットまつり2026",
+      "location": "秋葉原MOGRA",
+      "start": "2026-03-21T14:00:00+09:00",
+      "end": "2026-03-21T20:00:00+09:00",
+      "url": "https://club-mogra.jp/2026/03/21/8748/",
+      "source": "club-mogra.jp",
+      "notes": "DOOR 2500円+1Drink / U20 2000円+1Drink",
+      "status": "confirmed"
+    },
+    {
+      "id": "season-of-funkot-2026-summer",
+      "summary": "Season of Funkot 夏の陣",
+      "location": "Asakusa STELLA",
+      "start": "2026-08-15T15:00:00+09:00",
+      "end": "2026-08-15T20:00:00+09:00",
+      "url": "https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/",
+      "source": "djeventsearch / X @jamojisan1428",
+      "notes": "入場 ¥3000(1ドリンク付) #SOF26夏",
+      "status": "confirmed"
+    }
+  ]
+}
