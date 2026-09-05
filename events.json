@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-09-04T23:49:55.859943+00:00",
+  "updated_at": "2026-09-05T03:10:26.074416+00:00",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -13,7 +13,8 @@
       "url": "https://club-mogra.jp/2026/03/21/8748/",
       "source": "club-mogra.jp",
       "notes": "DOOR 2500円+1Drink / U20 2000円+1Drink",
-      "status": "confirmed"
+      "status": "confirmed",
+      "google_event_id": "r1ki5jnf1kh3l59pu2t5vq3epg"
     },
     {
       "id": "season-of-funkot-2026-summer",
@@ -24,7 +25,33 @@
       "url": "https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/",
       "source": "djeventsearch / X @jamojisan1428",
       "notes": "入場 ¥3000(1ドリンク付) #SOF26夏",
-      "status": "confirmed"
+      "status": "confirmed",
+      "google_event_id": "n3hr1tuhgjuvu2vhjel3cmg8ts"
+    },
+    {
+      "id": "bayanganobat-2026-09-23",
+      "summary": "BAYANGANOBAT（FUNKOT オンリー）",
+      "location": "高円寺yakusyu",
+      "start": "2026-09-23T15:00:00+09:00",
+      "end": "2026-09-23T20:00:00+09:00",
+      "url": "https://x.com/waku__/status/2094627826674901079",
+      "source": "X @waku__ (RT jamojisan1428・funkot_info)",
+      "notes": "¥1500+1D・jt・デス山・sige・WAKU",
+      "status": "confirmed",
+      "google_event_id": "l68h3r2emu08k64t9ea40b1vhg"
+    },
+    {
+      "id": "enak-friday-2026-09-04",
+      "summary": "ENAK FRIDAY",
+      "location": "渋谷Another Dimension",
+      "start": "2026-09-04T19:00:00+09:00",
+      "end": "2026-09-04T23:00:00+09:00",
+      "url": "https://x.com/totsumal/status/2095479131182157863",
+      "source": "totsumal・dng_funky",
+      "notes": "¥2000/2d・開催済み",
+      "status": "confirmed",
+      "google_event_id": "9ii95uiocd3tkg9b4om1l4otfg"
     }
-  ]
+  ],
+  "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
 }

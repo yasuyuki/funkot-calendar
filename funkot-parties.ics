@@ -7,7 +7,7 @@ X-WR-CALNAME:Funkot Parties
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:mogra-funkot-matsuri-2026@funkot-parties.yasuyuki
-DTSTAMP:20260904T234955Z
+DTSTAMP:20260905T031100Z
 DTSTART;TZID=Asia/Tokyo:20260321T140000
 DTEND;TZID=Asia/Tokyo:20260321T200000
 SUMMARY:大MOGRAファンコットまつり2026
@@ -17,12 +17,32 @@ URL:https://club-mogra.jp/2026/03/21/8748/
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-summer@funkot-parties.yasuyuki
-DTSTAMP:20260904T234955Z
+DTSTAMP:20260905T031100Z
 DTSTART;TZID=Asia/Tokyo:20260815T150000
 DTEND;TZID=Asia/Tokyo:20260815T200000
 SUMMARY:Season of Funkot 夏の陣
 LOCATION:Asakusa STELLA
 DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26夏\nhttps://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/\nsource: djeventsearch / X @jamojisan1428
 URL:https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/
+END:VEVENT
+BEGIN:VEVENT
+UID:bayanganobat-2026-09-23@funkot-parties.yasuyuki
+DTSTAMP:20260905T031100Z
+DTSTART;TZID=Asia/Tokyo:20260923T150000
+DTEND;TZID=Asia/Tokyo:20260923T200000
+SUMMARY:BAYANGANOBAT（FUNKOT オンリー）
+LOCATION:高円寺yakusyu
+DESCRIPTION:¥1500+1D・jt・デス山・sige・WAKU\nhttps://x.com/waku__/status/2094627826674901079\nsource: X @waku__ (RT jamojisan1428・funkot_info)
+URL:https://x.com/waku__/status/2094627826674901079
+END:VEVENT
+BEGIN:VEVENT
+UID:enak-friday-2026-09-04@funkot-parties.yasuyuki
+DTSTAMP:20260905T031100Z
+DTSTART;TZID=Asia/Tokyo:20260904T190000
+DTEND;TZID=Asia/Tokyo:20260904T230000
+SUMMARY:ENAK FRIDAY
+LOCATION:渋谷Another Dimension
+DESCRIPTION:¥2000/2d・開催済み\nhttps://x.com/totsumal/status/2095479131182157863\nsource: totsumal・dng_funky
+URL:https://x.com/totsumal/status/2095479131182157863
 END:VEVENT
 END:VCALENDAR
