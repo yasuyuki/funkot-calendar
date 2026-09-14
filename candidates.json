@@ -1,17 +1,41 @@
 {
   "version": 1,
-  "updated_at": "2026-09-05T03:10:26.074416+00:00",
+  "updated_at": "2026-09-14T03:05:46Z",
   "candidates": [
     {
+      "id": "chikkaidou-2026-11-22",
+      "summary": "チッカイドウ",
+      "location": "PLASTIC THEATER（北海道札幌市）",
+      "date": "2026-11-22",
+      "start": null,
+      "url": "https://x.com/yryrfnmyi/status/2099103367855485303",
+      "source": "X @yryrfnmyi (RT funkot_info) / flyer image",
+      "missing": [
+        "OPEN/開始時刻"
+      ],
+      "relevance": "partial_performer_funkot_intent_not_event_branded",
+      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。翌日再読。",
+      "seen_at": "2026-09-14T03:05:46Z"
+    }
+  ],
+  "dropped": [
+    {
       "id": "deathyama-night-2026-09-05",
-      "summary": "デス山ナイト",
-      "location": "神田Extrawelt",
-      "start": "2026-09-05T18:00:00+09:00",
-      "end": null,
-      "url": "https://x.com/ryu_hachi/status/2095110696363307042",
-      "source": "X @ryu_hachi",
-      "notes": "Funkotオンリーか不明・CLOSEなし",
-      "status": "candidate"
+      "reason": "開催日経過・CLOSE/オンリー未確定のため候補から除外",
+      "dropped_at": "2026-09-06T03:06:06.612794+00:00"
+    },
+    {
+      "id": "bootleg-jinja-2026-09-11",
+      "reason": "開催日当日・Funkotオンリー/明確セット条項未達のまま昇格せず終了",
+      "dropped_at": "2026-09-11T03:05:53Z",
+      "relevance": "partial_wam_funkot_set_not_only"
+    },
+    {
+      "id": "massive-attack-coa-2026-09-20",
+      "reason": "4つ打ち総合パーティー。出演者がFunkot等までやろうかな程度でオンリー/明確セット未達",
+      "dropped_at": "2026-09-14T03:05:46Z",
+      "relevance": "partial_guest_maybe_funkot",
+      "url": "https://x.com/yasukei23916/status/2099094700343083331"
     }
   ]
 }

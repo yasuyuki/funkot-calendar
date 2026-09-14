@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-09-05T03:10:26.074416+00:00",
+  "updated_at": "2026-09-14T03:05:46.039003+00:00",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -51,6 +51,18 @@
       "notes": "¥2000/2d・開催済み",
       "status": "confirmed",
       "google_event_id": "9ii95uiocd3tkg9b4om1l4otfg"
+    },
+    {
+      "id": "dugem-advance-04-2026-10-31",
+      "summary": "DUGEM ADVANCE 04",
+      "location": "sabaco music&cafe（早稲田 茶箱）",
+      "start": "2026-10-31T14:00:00+09:00",
+      "end": "2026-10-31T20:00:00+09:00",
+      "url": "https://x.com/akisz_/status/2099090708921716762",
+      "source": "X @akisz_ (RT jamojisan1428・funkot_info)",
+      "notes": "DOOR ¥3,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/masa/Liet NRC/DA crew",
+      "status": "confirmed",
+      "google_event_id": "ailaa5nf7khckjaqqh6ke6s03g"
     }
   ],
   "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
