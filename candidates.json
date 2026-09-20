@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T03:05:46Z",
+  "updated_at": "2026-09-20T03:15:25Z",
   "candidates": [
     {
       "id": "chikkaidou-2026-11-22",
@@ -14,8 +14,58 @@
         "OPEN/開始時刻"
       ],
       "relevance": "partial_performer_funkot_intent_not_event_branded",
-      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。翌日再読。",
-      "seen_at": "2026-09-14T03:05:46Z"
+      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。",
+      "seen_at": "2026-09-15T03:14:17Z"
+    },
+    {
+      "id": "akihard-2026-09-25",
+      "summary": "AKIHARD — Makina vs Funkot",
+      "location": "IV AKIHABARA",
+      "date": "2026-09-25",
+      "start": "24:00",
+      "url": "https://x.com/_Wam_jp/status/2098754811558818015",
+      "source": "CMO 2026-09-20 / X @_Wam_jp",
+      "missing": [
+        "日境界の確定（9/25深夜 vs 9/26早朝）"
+      ],
+      "relevance": "makina_vs_funkot_day_boundary_unclear",
+      "notes": "9/25 24:00 IV AKIHABARA Makina vs Funkot。日境界要確認のため候補。",
+      "seen_at": "2026-09-20T03:15:25Z"
+    },
+    {
+      "id": "yabai-bar-relative-week",
+      "summary": "やばいBAR（Funkot予定）",
+      "location": null,
+      "date": null,
+      "start": null,
+      "url": "https://x.com/siniinu/status/2100162097615442135",
+      "source": "CMO 2026-09-20",
+      "missing": [
+        "会場",
+        "正式日付",
+        "OPEN"
+      ],
+      "relevance": "relative_this_saturday_incomplete",
+      "notes": "Funkot予定あり・相対表現・会場/正式日付不足のため候補。",
+      "seen_at": "2026-09-20T03:15:25Z"
+    },
+    {
+      "id": "hiroshima-tikke-ops",
+      "summary": "広島ティッケー大作戦",
+      "location": null,
+      "date": null,
+      "start": null,
+      "url": null,
+      "source": "CMO 2026-09-20 watch",
+      "missing": [
+        "日付",
+        "会場",
+        "OPEN",
+        "一次URL"
+      ],
+      "relevance": "funkot_performer_named_no_datetime_venue",
+      "notes": "Funkot出演明記・日付会場なし。",
+      "seen_at": "2026-09-20T03:15:25Z"
     }
   ],
   "dropped": [
@@ -36,6 +86,13 @@
       "dropped_at": "2026-09-14T03:05:46Z",
       "relevance": "partial_guest_maybe_funkot",
       "url": "https://x.com/yasukei23916/status/2099094700343083331"
+    },
+    {
+      "id": "eurasia-drift-2026-10-23",
+      "reason": "多ジャンル（Funkot+Makina+Gabber+UKHC+Jungle）。オンリー/明確セット未達のため候補にも載せない",
+      "dropped_at": "2026-09-18T03:05:00Z",
+      "relevance": "multi_genre_lists_funkot_among_makina_gabber_ukhc",
+      "url": "https://x.com/AsagayaDrift/status/2100143226858688697"
     }
   ]
 }
