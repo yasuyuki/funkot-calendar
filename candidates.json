@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-20T03:15:25Z",
+  "updated_at": "2026-09-26T02:50:10Z",
   "candidates": [
     {
       "id": "chikkaidou-2026-11-22",
@@ -16,21 +16,6 @@
       "relevance": "partial_performer_funkot_intent_not_event_branded",
       "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。",
       "seen_at": "2026-09-15T03:14:17Z"
-    },
-    {
-      "id": "akihard-2026-09-25",
-      "summary": "AKIHARD — Makina vs Funkot",
-      "location": "IV AKIHABARA",
-      "date": "2026-09-25",
-      "start": "24:00",
-      "url": "https://x.com/_Wam_jp/status/2098754811558818015",
-      "source": "CMO 2026-09-20 / X @_Wam_jp",
-      "missing": [
-        "日境界の確定（9/25深夜 vs 9/26早朝）"
-      ],
-      "relevance": "makina_vs_funkot_day_boundary_unclear",
-      "notes": "9/25 24:00 IV AKIHABARA Makina vs Funkot。日境界要確認のため候補。",
-      "seen_at": "2026-09-20T03:15:25Z"
     },
     {
       "id": "yabai-bar-relative-week",
@@ -66,6 +51,22 @@
       "relevance": "funkot_performer_named_no_datetime_venue",
       "notes": "Funkot出演明記・日付会場なし。",
       "seen_at": "2026-09-20T03:15:25Z"
+    },
+    {
+      "id": "house-beat-2026-10-22",
+      "summary": "HOUSE BEAT",
+      "location": "渋谷Another Dimension",
+      "date": "2026-10-22",
+      "start": "19:00",
+      "url": "https://x.com/ryu_hachi/status/2101588830528958864",
+      "source": "X @ryu_hachi (RT @funkot_info)",
+      "missing": [
+        "終了時刻",
+        "オンリー/明確セットの確定"
+      ],
+      "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
+      "notes": "告知は「#Funkot を中心に多彩な音楽」。Baltimoreクラブ＋スペイン語ファンコット言及。終了未記載。オンリー/明確セット未達のため候補。DOOR 2000円(2d)。DJ: DAI-NAGON/mionn/neneeedy/nao_11/りゅっぱち。",
+      "seen_at": "2026-09-24T03:01:34Z"
     }
   ],
   "dropped": [
@@ -93,6 +94,13 @@
       "dropped_at": "2026-09-18T03:05:00Z",
       "relevance": "multi_genre_lists_funkot_among_makina_gabber_ukhc",
       "url": "https://x.com/AsagayaDrift/status/2100143226858688697"
+    },
+    {
+      "id": "akihard-2026-09-25",
+      "reason": "開催日経過・日境界未確定のまま昇格せず終了（Makina vs Funkot・オンリー/明確セット条項も未達）",
+      "dropped_at": "2026-09-26T02:50:10Z",
+      "relevance": "makina_vs_funkot_day_boundary_unclear",
+      "url": "https://x.com/_Wam_jp/status/2098754811558818015"
     }
   ]
 }
