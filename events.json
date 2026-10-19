@@ -98,9 +98,10 @@
       "source": "X @TeNgusaaa (RT funkot_info・jamojisan1428) / flyer",
       "notes": "新規 Funkot パーティー（TeNgusa・nuxyotaurus・Donchan 主催）。#Funkot #EnakAngel。VRChat グループ: https://vrc.group/ENAK.6958",
       "status": "confirmed",
-      "sync_state": "error",
+      "sync_state": "synced",
       "google_event_id": "4076it5s8vfa9n341a3ed658sg",
-      "last_sync_error": "2026-10-19 github_push 再試行失敗（2回連続）: gh 未ログイン、cursor-github コネクタにファイル更新/push ツールなし。ICS・Google は同期済み。 | 前回: 2026-10-18 github_push: box に GitHub 書き込み手段なし（gh 未ログイン、cursor-github コネクタにファイル更新ツールなし）。ICS 再生成・Google 作成は成功。"
+      "last_sync_error": null,
+      "last_synced_at": "2026-10-19T12:10:00+09:00"
     },
     {
       "id": "uchiage-funkot-2026-12-26",
@@ -112,9 +113,10 @@
       "source": "X @milfiiyu (RT jamojisan1428・funkot_info・_Wam_jp) / flyer",
       "notes": "ファンコットオンリー。DOOR FREE。TT: 13:30 nkio / 14:15 ぽんず / 15:00 緋夜 / 15:45 みーとくん / 16:30 G4nKo / 17:15 岡野神夜 / 18:00 CLOSE",
       "status": "confirmed",
-      "sync_state": "error",
+      "sync_state": "synced",
       "google_event_id": "5hueqin8f0n8sv7s5nbd3glvqc",
-      "last_sync_error": "2026-10-19 github_push 再試行失敗（2回連続）: gh 未ログイン、cursor-github コネクタにファイル更新/push ツールなし。ICS・Google は同期済み。 | 前回: 2026-10-18 github_push: box に GitHub 書き込み手段なし（gh 未ログイン、cursor-github コネクタにファイル更新ツールなし）。ICS 再生成・Google 作成は成功。"
+      "last_sync_error": null,
+      "last_synced_at": "2026-10-19T12:10:00+09:00"
     }
   ],
   "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
