@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-26T02:50:10Z",
+  "updated_at": "2026-10-18T03:02:53Z",
   "candidates": [
     {
       "id": "chikkaidou-2026-11-22",
@@ -16,23 +16,6 @@
       "relevance": "partial_performer_funkot_intent_not_event_branded",
       "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。",
       "seen_at": "2026-09-15T03:14:17Z"
-    },
-    {
-      "id": "yabai-bar-relative-week",
-      "summary": "やばいBAR（Funkot予定）",
-      "location": null,
-      "date": null,
-      "start": null,
-      "url": "https://x.com/siniinu/status/2100162097615442135",
-      "source": "CMO 2026-09-20",
-      "missing": [
-        "会場",
-        "正式日付",
-        "OPEN"
-      ],
-      "relevance": "relative_this_saturday_incomplete",
-      "notes": "Funkot予定あり・相対表現・会場/正式日付不足のため候補。",
-      "seen_at": "2026-09-20T03:15:25Z"
     },
     {
       "id": "hiroshima-tikke-ops",
@@ -65,8 +48,8 @@
         "オンリー/明確セットの確定"
       ],
       "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
-      "notes": "告知は「#Funkot を中心に多彩な音楽」。Baltimoreクラブ＋スペイン語ファンコット言及。終了未記載。オンリー/明確セット未達のため候補。DOOR 2000円(2d)。DJ: DAI-NAGON/mionn/neneeedy/nao_11/りゅっぱち。",
-      "seen_at": "2026-09-24T03:01:34Z"
+      "notes": "告知は「#Funkot を中心に多彩な音楽」。Baltimoreクラブ＋スペイン語ファンコット言及。終了未記載。オンリー/明確セット未達のため候補。DOOR 2000円(2d)。DJ: DAI-NAGON/mionn/neneeedy/nao_11/りゅっぱち。 2026-10-18再読: 10/13 RT でも「#Funkot を中心に多彩な音楽」「Funkot+α」表記のまま。候補維持。",
+      "seen_at": "2026-10-18T03:02:53Z"
     }
   ],
   "dropped": [
@@ -101,6 +84,11 @@
       "dropped_at": "2026-09-26T02:50:10Z",
       "relevance": "makina_vs_funkot_day_boundary_unclear",
       "url": "https://x.com/_Wam_jp/status/2098754811558818015"
+    },
+    {
+      "id": "yabai-bar-relative-week",
+      "reason": "9/20時点の相対表現（今週土曜）のまま会場/日付未確定で期限経過",
+      "dropped_at": "2026-10-18T03:02:53Z"
     }
   ]
 }

@@ -7,7 +7,7 @@ X-WR-CALNAME:Funkot Parties
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:mogra-funkot-matsuri-2026@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20260321T140000
 DTEND;TZID=Asia/Tokyo:20260321T200000
 SUMMARY:大MOGRAファンコットまつり2026
@@ -17,7 +17,7 @@ URL:https://club-mogra.jp/2026/03/21/8748/
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-summer@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20260815T150000
 DTEND;TZID=Asia/Tokyo:20260815T200000
 SUMMARY:Season of Funkot 夏の陣
@@ -27,7 +27,7 @@ URL:https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funko
 END:VEVENT
 BEGIN:VEVENT
 UID:bayanganobat-2026-09-23@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20260923T150000
 DTEND;TZID=Asia/Tokyo:20260923T200000
 SUMMARY:BAYANGANOBAT（FUNKOT オンリー）
@@ -37,7 +37,7 @@ URL:https://x.com/waku__/status/2094627826674901079
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-friday-2026-09-04@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20260904T190000
 DTEND;TZID=Asia/Tokyo:20260904T230000
 SUMMARY:ENAK FRIDAY
@@ -47,7 +47,7 @@ URL:https://x.com/totsumal/status/2095479131182157863
 END:VEVENT
 BEGIN:VEVENT
 UID:dugem-advance-04-2026-10-31@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
 DTEND;TZID=Asia/Tokyo:20261031T200000
 SUMMARY:DUGEM ADVANCE 04
@@ -57,7 +57,7 @@ URL:https://x.com/akisz_/status/2099090708921716762
 END:VEVENT
 BEGIN:VEVENT
 UID:nhac-hay-nhat-2026-09-20@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20260920T143000
 DTEND;TZID=Asia/Tokyo:20260920T213000
 SUMMARY:Nhạc Hay Nhất（ニャックハイニャット）
@@ -67,12 +67,32 @@ URL:https://x.com/wayve_1a2b/status/2100911874858758337
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-autumn@funkot-parties.yasuyuki
-DTSTAMP:20260927T025850Z
+DTSTAMP:20261018T030303Z
 DTSTART;TZID=Asia/Tokyo:20261107T150000
 DTEND;TZID=Asia/Tokyo:20261107T200000
 SUMMARY:Season of Funkot 秋の陣
 LOCATION:Asakusa STELLA
 DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら\nhttps://x.com/jamojisan1428/status/2103789646660636742\nsource: X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)
 URL:https://x.com/jamojisan1428/status/2103789646660636742
+END:VEVENT
+BEGIN:VEVENT
+UID:enak-angel-2026-10-22@funkot-parties.yasuyuki
+DTSTAMP:20261018T030303Z
+DTSTART;TZID=Asia/Tokyo:20261022T210000
+DTEND;TZID=Asia/Tokyo:20261023T000000
+SUMMARY:Enak Angel
+LOCATION:VRChat（オンライン・グループ ENAK.6958）
+DESCRIPTION:新規 Funkot パーティー（TeNgusa・nuxyotaurus・Donchan 主催）。#Funkot #EnakAngel。VRChat グループ: https://vrc.group/ENAK.6958\nhttps://x.com/TeNgusaaa/status/2107682265191088317\nsource: X @TeNgusaaa (RT funkot_info・jamojisan1428) / flyer
+URL:https://x.com/TeNgusaaa/status/2107682265191088317
+END:VEVENT
+BEGIN:VEVENT
+UID:uchiage-funkot-2026-12-26@funkot-parties.yasuyuki
+DTSTAMP:20261018T030303Z
+DTSTART;TZID=Asia/Tokyo:20261226T133000
+DTEND;TZID=Asia/Tokyo:20261226T180000
+SUMMARY:うちあげふぁんこっと
+LOCATION:Versatile 丸亀（香川県丸亀市通町16）
+DESCRIPTION:ファンコットオンリー。DOOR FREE。TT: 13:30 nkio / 14:15 ぽんず / 15:00 緋夜 / 15:45 みーとくん / 16:30 G4nKo / 17:15 岡野神夜 / 18:00 CLOSE\nhttps://x.com/milfiiyu/status/2110694443041091792\nsource: X @milfiiyu (RT jamojisan1428・funkot_info・_Wam_jp) / flyer
+URL:https://x.com/milfiiyu/status/2110694443041091792
 END:VEVENT
 END:VCALENDAR
