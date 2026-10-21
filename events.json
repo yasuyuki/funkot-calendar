@@ -101,9 +101,10 @@
       "source": "X @totsumal / flyer",
       "notes": "This is Funkot Party… ファンコットの旬(M3直後)回。Charge 2000yen/2d。DJs: Liet NRC, masa, kaikun, DAI-NAGON, totsumal",
       "status": "confirmed",
-      "sync_state": "pending",
+      "sync_state": "synced",
       "last_sync_error": null,
-      "google_event_id": "dn6loartabmvnajr3tssdom970"
+      "google_event_id": "dn6loartabmvnajr3tssdom970",
+      "last_synced_at": "2026-10-21T20:58:00+09:00"
     },
     {
       "id": "season-of-funkot-2026-autumn",
