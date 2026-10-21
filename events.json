@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-10-18T03:02:53Z",
+  "updated_at": "2026-10-21T11:56:00Z",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -29,18 +29,6 @@
       "google_event_id": "n3hr1tuhgjuvu2vhjel3cmg8ts"
     },
     {
-      "id": "bayanganobat-2026-09-23",
-      "summary": "BAYANGANOBAT（FUNKOT オンリー）",
-      "location": "高円寺yakusyu",
-      "start": "2026-09-23T15:00:00+09:00",
-      "end": "2026-09-23T20:00:00+09:00",
-      "url": "https://x.com/waku__/status/2094627826674901079",
-      "source": "X @waku__ (RT jamojisan1428・funkot_info)",
-      "notes": "¥1500+1D・jt・デス山・sige・WAKU",
-      "status": "confirmed",
-      "google_event_id": "l68h3r2emu08k64t9ea40b1vhg"
-    },
-    {
       "id": "enak-friday-2026-09-04",
       "summary": "ENAK FRIDAY",
       "location": "渋谷Another Dimension",
@@ -51,18 +39,6 @@
       "notes": "¥2000/2d・開催済み",
       "status": "confirmed",
       "google_event_id": "9ii95uiocd3tkg9b4om1l4otfg"
-    },
-    {
-      "id": "dugem-advance-04-2026-10-31",
-      "summary": "DUGEM ADVANCE 04",
-      "location": "sabaco music&cafe（早稲田 茶箱）",
-      "start": "2026-10-31T14:00:00+09:00",
-      "end": "2026-10-31T20:00:00+09:00",
-      "url": "https://x.com/akisz_/status/2099090708921716762",
-      "source": "X @akisz_ (RT jamojisan1428・funkot_info)",
-      "notes": "DOOR ¥3,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/masa/Liet NRC/DA crew",
-      "status": "confirmed",
-      "google_event_id": "ailaa5nf7khckjaqqh6ke6s03g"
     },
     {
       "id": "nhac-hay-nhat-2026-09-20",
@@ -77,16 +53,16 @@
       "google_event_id": "cvv7q530gcrbkio4vfenagp38c"
     },
     {
-      "id": "season-of-funkot-2026-autumn",
-      "summary": "Season of Funkot 秋の陣",
-      "location": "Asakusa STELLA",
-      "start": "2026-11-07T15:00:00+09:00",
-      "end": "2026-11-07T20:00:00+09:00",
-      "url": "https://x.com/jamojisan1428/status/2103789646660636742",
-      "source": "X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)",
-      "notes": "入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら",
+      "id": "bayanganobat-2026-09-23",
+      "summary": "BAYANGANOBAT（FUNKOT オンリー）",
+      "location": "高円寺yakusyu",
+      "start": "2026-09-23T15:00:00+09:00",
+      "end": "2026-09-23T20:00:00+09:00",
+      "url": "https://x.com/waku__/status/2094627826674901079",
+      "source": "X @waku__ (RT jamojisan1428・funkot_info)",
+      "notes": "¥1500+1D・jt・デス山・sige・WAKU",
       "status": "confirmed",
-      "google_event_id": "bsivmsgif10enlkfahekbvh848"
+      "google_event_id": "l68h3r2emu08k64t9ea40b1vhg"
     },
     {
       "id": "enak-angel-2026-10-22",
@@ -102,6 +78,44 @@
       "google_event_id": "4076it5s8vfa9n341a3ed658sg",
       "last_sync_error": null,
       "last_synced_at": "2026-10-19T12:10:00+09:00"
+    },
+    {
+      "id": "dugem-advance-04-2026-10-31",
+      "summary": "DUGEM ADVANCE 04",
+      "location": "sabaco music&cafe（早稲田 茶箱）",
+      "start": "2026-10-31T14:00:00+09:00",
+      "end": "2026-10-31T20:00:00+09:00",
+      "url": "https://x.com/akisz_/status/2099090708921716762",
+      "source": "X @akisz_ (RT jamojisan1428・funkot_info)",
+      "notes": "DOOR ¥3,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/masa/Liet NRC/DA crew",
+      "status": "confirmed",
+      "google_event_id": "ailaa5nf7khckjaqqh6ke6s03g"
+    },
+    {
+      "id": "enak-friday-2026-11-06",
+      "summary": "ENAK FRIDAY",
+      "location": "渋谷Another Dimension",
+      "start": "2026-11-06T19:00:00+09:00",
+      "end": "2026-11-06T23:00:00+09:00",
+      "url": "https://x.com/totsumal/status/2112867525105262812",
+      "source": "X @totsumal / flyer",
+      "notes": "This is Funkot Party… ファンコットの旬(M3直後)回。Charge 2000yen/2d。DJs: Liet NRC, masa, kaikun, DAI-NAGON, totsumal",
+      "status": "confirmed",
+      "sync_state": "pending",
+      "last_sync_error": null,
+      "google_event_id": "dn6loartabmvnajr3tssdom970"
+    },
+    {
+      "id": "season-of-funkot-2026-autumn",
+      "summary": "Season of Funkot 秋の陣",
+      "location": "Asakusa STELLA",
+      "start": "2026-11-07T15:00:00+09:00",
+      "end": "2026-11-07T20:00:00+09:00",
+      "url": "https://x.com/jamojisan1428/status/2103789646660636742",
+      "source": "X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)",
+      "notes": "入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら",
+      "status": "confirmed",
+      "google_event_id": "bsivmsgif10enlkfahekbvh848"
     },
     {
       "id": "uchiage-funkot-2026-12-26",

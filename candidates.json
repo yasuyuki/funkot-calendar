@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T03:02:53Z",
+  "updated_at": "2026-10-20T03:12:00Z",
   "candidates": [
     {
       "id": "chikkaidou-2026-11-22",
@@ -50,6 +50,22 @@
       "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
       "notes": "告知は「#Funkot を中心に多彩な音楽」。Baltimoreクラブ＋スペイン語ファンコット言及。終了未記載。オンリー/明確セット未達のため候補。DOOR 2000円(2d)。DJ: DAI-NAGON/mionn/neneeedy/nao_11/りゅっぱち。 2026-10-18再読: 10/13 RT でも「#Funkot を中心に多彩な音楽」「Funkot+α」表記のまま。候補維持。",
       "seen_at": "2026-10-18T03:02:53Z"
+    },
+    {
+      "id": "eurasia-drift-2026-10-23",
+      "summary": "EURASIA DRIFT",
+      "location": "ASAGAYA DRIFT（阿佐ヶ谷）",
+      "date": "2026-10-23",
+      "start": "19:00",
+      "end": "23:30",
+      "url": "https://x.com/TENNUSHI2024/status/2111658134431531381",
+      "source": "X @TENNUSHI2024 (RT @funkot_info) / @niaeastern 引用でイベント名 EURASIA DRIFT",
+      "missing": [
+        "オンリー/明確セットの確定"
+      ],
+      "relevance": "funkot_centered_continental_dance",
+      "notes": "2026-09-18 に多ジャンル告知で除外済みの同イベント。10/18 告知は「ファンコットを中心に早めの大陸系ダンスミュージック」。タイムテーブル 19:00 石渡康太/19:50 神品密売サービス/20:40 saegusa/21:20 ニア(広島)/22:10 Gunji/22:50 床上中/23:30 終了。@yryrfnmyi「funkotやります」、ニア「オタクなFunkot」。HOUSE BEAT と同じ「Funkot 中心」扱いで候補に再掲（オンリー未達）。",
+      "seen_at": "2026-10-20T03:12:00Z"
     }
   ],
   "dropped": [

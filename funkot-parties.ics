@@ -7,7 +7,7 @@ X-WR-CALNAME:Funkot Parties
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:mogra-funkot-matsuri-2026@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20260321T140000
 DTEND;TZID=Asia/Tokyo:20260321T200000
 SUMMARY:大MOGRAファンコットまつり2026
@@ -17,7 +17,7 @@ URL:https://club-mogra.jp/2026/03/21/8748/
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-summer@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20260815T150000
 DTEND;TZID=Asia/Tokyo:20260815T200000
 SUMMARY:Season of Funkot 夏の陣
@@ -26,18 +26,8 @@ DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26夏\nhttps://djeventsearch.com
 URL:https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funkot/
 END:VEVENT
 BEGIN:VEVENT
-UID:bayanganobat-2026-09-23@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
-DTSTART;TZID=Asia/Tokyo:20260923T150000
-DTEND;TZID=Asia/Tokyo:20260923T200000
-SUMMARY:BAYANGANOBAT（FUNKOT オンリー）
-LOCATION:高円寺yakusyu
-DESCRIPTION:¥1500+1D・jt・デス山・sige・WAKU\nhttps://x.com/waku__/status/2094627826674901079\nsource: X @waku__ (RT jamojisan1428・funkot_info)
-URL:https://x.com/waku__/status/2094627826674901079
-END:VEVENT
-BEGIN:VEVENT
 UID:enak-friday-2026-09-04@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20260904T190000
 DTEND;TZID=Asia/Tokyo:20260904T230000
 SUMMARY:ENAK FRIDAY
@@ -46,18 +36,8 @@ DESCRIPTION:¥2000/2d・開催済み\nhttps://x.com/totsumal/status/209547913118
 URL:https://x.com/totsumal/status/2095479131182157863
 END:VEVENT
 BEGIN:VEVENT
-UID:dugem-advance-04-2026-10-31@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
-DTSTART;TZID=Asia/Tokyo:20261031T140000
-DTEND;TZID=Asia/Tokyo:20261031T200000
-SUMMARY:DUGEM ADVANCE 04
-LOCATION:sabaco music&cafe（早稲田 茶箱）
-DESCRIPTION:DOOR ¥3\,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/masa/Liet NRC/DA crew\nhttps://x.com/akisz_/status/2099090708921716762\nsource: X @akisz_ (RT jamojisan1428・funkot_info)
-URL:https://x.com/akisz_/status/2099090708921716762
-END:VEVENT
-BEGIN:VEVENT
 UID:nhac-hay-nhat-2026-09-20@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20260920T143000
 DTEND;TZID=Asia/Tokyo:20260920T213000
 SUMMARY:Nhạc Hay Nhất（ニャックハイニャット）
@@ -66,18 +46,18 @@ DESCRIPTION:Wayveセットが Funkot / Jungle Dutch / Breakbeat 明記（明確�
 URL:https://x.com/wayve_1a2b/status/2100911874858758337
 END:VEVENT
 BEGIN:VEVENT
-UID:season-of-funkot-2026-autumn@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
-DTSTART;TZID=Asia/Tokyo:20261107T150000
-DTEND;TZID=Asia/Tokyo:20261107T200000
-SUMMARY:Season of Funkot 秋の陣
-LOCATION:Asakusa STELLA
-DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら\nhttps://x.com/jamojisan1428/status/2103789646660636742\nsource: X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)
-URL:https://x.com/jamojisan1428/status/2103789646660636742
+UID:bayanganobat-2026-09-23@funkot-parties.yasuyuki
+DTSTAMP:20261021T115540Z
+DTSTART;TZID=Asia/Tokyo:20260923T150000
+DTEND;TZID=Asia/Tokyo:20260923T200000
+SUMMARY:BAYANGANOBAT（FUNKOT オンリー）
+LOCATION:高円寺yakusyu
+DESCRIPTION:¥1500+1D・jt・デス山・sige・WAKU\nhttps://x.com/waku__/status/2094627826674901079\nsource: X @waku__ (RT jamojisan1428・funkot_info)
+URL:https://x.com/waku__/status/2094627826674901079
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-angel-2026-10-22@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20261022T210000
 DTEND;TZID=Asia/Tokyo:20261023T000000
 SUMMARY:Enak Angel
@@ -86,8 +66,38 @@ DESCRIPTION:新規 Funkot パーティー（TeNgusa・nuxyotaurus・Donchan 主�
 URL:https://x.com/TeNgusaaa/status/2107682265191088317
 END:VEVENT
 BEGIN:VEVENT
+UID:dugem-advance-04-2026-10-31@funkot-parties.yasuyuki
+DTSTAMP:20261021T115540Z
+DTSTART;TZID=Asia/Tokyo:20261031T140000
+DTEND;TZID=Asia/Tokyo:20261031T200000
+SUMMARY:DUGEM ADVANCE 04
+LOCATION:sabaco music&cafe（早稲田 茶箱）
+DESCRIPTION:DOOR ¥3\,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/masa/Liet NRC/DA crew\nhttps://x.com/akisz_/status/2099090708921716762\nsource: X @akisz_ (RT jamojisan1428・funkot_info)
+URL:https://x.com/akisz_/status/2099090708921716762
+END:VEVENT
+BEGIN:VEVENT
+UID:enak-friday-2026-11-06@funkot-parties.yasuyuki
+DTSTAMP:20261021T115540Z
+DTSTART;TZID=Asia/Tokyo:20261106T190000
+DTEND;TZID=Asia/Tokyo:20261106T230000
+SUMMARY:ENAK FRIDAY
+LOCATION:渋谷Another Dimension
+DESCRIPTION:This is Funkot Party… ファンコットの旬(M3直後)回。Charge 2000yen/2d。DJs: Liet NRC\, masa\, kaikun\, DAI-NAGON\, totsumal\nhttps://x.com/totsumal/status/2112867525105262812\nsource: X @totsumal / flyer
+URL:https://x.com/totsumal/status/2112867525105262812
+END:VEVENT
+BEGIN:VEVENT
+UID:season-of-funkot-2026-autumn@funkot-parties.yasuyuki
+DTSTAMP:20261021T115540Z
+DTSTART;TZID=Asia/Tokyo:20261107T150000
+DTEND;TZID=Asia/Tokyo:20261107T200000
+SUMMARY:Season of Funkot 秋の陣
+LOCATION:Asakusa STELLA
+DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら\nhttps://x.com/jamojisan1428/status/2103789646660636742\nsource: X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)
+URL:https://x.com/jamojisan1428/status/2103789646660636742
+END:VEVENT
+BEGIN:VEVENT
 UID:uchiage-funkot-2026-12-26@funkot-parties.yasuyuki
-DTSTAMP:20261018T030303Z
+DTSTAMP:20261021T115540Z
 DTSTART;TZID=Asia/Tokyo:20261226T133000
 DTEND;TZID=Asia/Tokyo:20261226T180000
 SUMMARY:うちあげふぁんこっと
