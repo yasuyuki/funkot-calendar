@@ -90,8 +90,7 @@
       "notes": "イベント自体は Funkot 専門ではない。さえ一がファンコット軸で出演（2026-10-21 ユーザー判断で掲載）。さえ一枠 20:40〜21:20（TT表記 saegusa、フライヤー表記 saegsa）。fee 1,000yen+1D。Eurasian Fast Dance Music DJ PARTY（Funkot, Makina, Jungle Dutch, Vina House, UK Hardcore, Gabber etc.）。TT: 19:00 石渡康太 / 19:50 神品密売サービス / 20:40 saegusa / 21:20 ニア(広島) / 22:10 Gunji / 22:50 床上中 / 23:30 終了。告知「ファンコットを中心に早めの大陸系ダンスミュージック」。ユーザー情報: Funkot DJ 少なくとも3名、半分程度は Funkot の見込み。告知で Funkot 明言: さえ一（@yryrfnmyi「funkotやります」）、ニア（広島）（「オタクなFunkot」）。",
       "status": "confirmed",
       "google_event_id": "r82ag6i7t2k4d56c4reue3rims",
-      "sync_state": "error",
-      "last_sync_error": "GitHub push 失敗: push.sh → ERROR GH_FUNKOT_CALENDAR_TOKEN未設定（2026-10-21 23:37 JST、box 再起動後）。ICS・Google は反映済み",
+      "sync_state": "synced",
       "promoted_from": "candidates.json 2026-10-21"
     },
     {
@@ -105,8 +104,7 @@
       "notes": "イベント自体は Funkot 専門ではない。さえ一がファンコット軸で出演（2026-10-21 ユーザー判断で掲載）。さえ一（フライヤー表記 Saegsa）の出演時間は未発表。OPEN 15:00 / CLOSE 22:00。DOOR ¥3500 / ADV ¥3000 / U20 ¥2000。GUEST DJ: DJ SHIMAMURA, DJ Noriken。LINEUP: DJ CHAMP, GASTON, Lance Force, M$K, Racer, Saegsa。VJ: HATOTO, rionpi。DRUM&BASS/UK HARDCORE/HAPPY HARDCORE/HARDSTYLE/OTHER GOOD RAVE MUSIC。",
       "status": "confirmed",
       "google_event_id": "2ljdrh73f6eeatge7bhpo1k338",
-      "sync_state": "error",
-      "last_sync_error": "GitHub push 失敗: push.sh → ERROR GH_FUNKOT_CALENDAR_TOKEN未設定（2026-10-21 23:37 JST、box 再起動後）。ICS・Google は反映済み"
+      "sync_state": "synced"
     },
     {
       "id": "dugem-advance-04-2026-10-31",
