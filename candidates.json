@@ -1,21 +1,22 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T03:12:00Z",
+  "updated_at": "2026-10-22T12:06:00+09:00",
   "candidates": [
     {
       "id": "chikkaidou-2026-11-22",
       "summary": "チッカイドウ",
       "location": "PLASTIC THEATER（北海道札幌市）",
       "date": "2026-11-22",
-      "start": null,
+      "start": "14:00",
       "url": "https://x.com/yryrfnmyi/status/2099103367855485303",
       "source": "X @yryrfnmyi (RT funkot_info) / flyer image",
       "missing": [
-        "OPEN/開始時刻"
+        "Funkot オンリー/明確セット"
       ],
       "relevance": "partial_performer_funkot_intent_not_event_branded",
-      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。",
-      "seen_at": "2026-09-15T03:14:17Z"
+      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。 | 2026-10-22: @yryrfnmyi 1ヶ月前告知（https://x.com/yryrfnmyi/status/2112723421780156914）のフライヤーで 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円、出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa（さえ一本人かは未確認）。Funkot 明記なしのため候補維持。",
+      "seen_at": "2026-10-22T12:06:00+09:00",
+      "end": "20:00"
     },
     {
       "id": "hiroshima-tikke-ops",
@@ -52,20 +53,37 @@
       "seen_at": "2026-10-18T03:02:53Z"
     },
     {
-      "id": "eurasia-drift-2026-10-23",
-      "summary": "EURASIA DRIFT",
-      "location": "ASAGAYA DRIFT（阿佐ヶ谷）",
-      "date": "2026-10-23",
-      "start": "19:00",
-      "end": "23:30",
-      "url": "https://x.com/TENNUSHI2024/status/2111658134431531381",
-      "source": "X @TENNUSHI2024 (RT @funkot_info) / @niaeastern 引用でイベント名 EURASIA DRIFT",
+      "id": "musemolt-field-trip-02-2026-10-24",
+      "summary": "MUSE MOLT : Field Trip 02（Aki Sz 出演）",
+      "location": "中野 heavysick ZERO",
+      "date": "2026-10-24",
+      "start": "14:00",
+      "end": "20:30",
+      "url": "https://x.com/akisz_/status/2113093338010365969",
+      "source": "X @akisz_ 本人告知＋@musemolt 告知 https://x.com/i/status/2099487797908529328 / 出演者画像",
       "missing": [
-        "オンリー/明確セットの確定"
+        "Funkot 明記（本人は M3新譜・Rave・Tekno 中心のセットと告知）",
+        "本人枠の時刻（未公表）"
       ],
-      "relevance": "funkot_centered_continental_dance",
-      "notes": "2026-09-18 に多ジャンル告知で除外済みの同イベント。10/18 告知は「ファンコットを中心に早めの大陸系ダンスミュージック」。タイムテーブル 19:00 石渡康太/19:50 神品密売サービス/20:40 saegusa/21:20 ニア(広島)/22:10 Gunji/22:50 床上中/23:30 終了。@yryrfnmyi「funkotやります」、ニア「オタクなFunkot」。HOUSE BEAT と同じ「Funkot 中心」扱いで候補に再掲（オンリー未達）。",
-      "seen_at": "2026-10-20T03:12:00Z"
+      "relevance": "watched_funkot_dj_at_general_event",
+      "notes": "一般 DJ パーティー（DOOR 3500円 1D別）。Aki Sz は MAIN FLOOR (B1)。フライヤー画像確認、タイムテーブル未公表。カレンダーには載せない。",
+      "seen_at": "2026-10-22T12:06:00+09:00"
+    },
+    {
+      "id": "be-music-squad-2-2026-11-29",
+      "summary": "Be Music Squad 2",
+      "location": "大阪 千日前 ギルドネオ",
+      "date": "2026-11-29",
+      "start": null,
+      "url": "https://x.com/i/status/2112482418720665893",
+      "source": "X @kju_8（RT @funkot_info）",
+      "missing": [
+        "OPEN/開始時刻",
+        "Funkot オンリー/明確セット（BMS作者パーティーで出演者1名がファンコットをかける予定と告知）"
+      ],
+      "relevance": "performer_plans_funkot_set_at_general_event",
+      "notes": "kju_8（Takuya Namba 名義）が BMS で出したファンコットをかける予定。イベント自体は BMS 作者の音楽パーティー。監視リスト外の DJ。",
+      "seen_at": "2026-10-22T12:06:00+09:00"
     }
   ],
   "dropped": [
@@ -105,6 +123,13 @@
       "id": "yabai-bar-relative-week",
       "reason": "9/20時点の相対表現（今週土曜）のまま会場/日付未確定で期限経過",
       "dropped_at": "2026-10-18T03:02:53Z"
+    }
+  ],
+  "promoted": [
+    {
+      "id": "eurasia-drift-2026-10-23",
+      "promoted_at": "2026-10-21T23:35:00+09:00",
+      "reason": "ユーザー判断（2026-10-21 23:22 JST）で確定掲載。さえ一がファンコット軸で出演"
     }
   ]
 }
