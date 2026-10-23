@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-10-23T03:08:31Z",
+  "updated_at": "2026-10-23T18:20:00+09:00",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -94,6 +94,19 @@
       "promoted_from": "candidates.json 2026-10-21"
     },
     {
+      "id": "musemolt-field-trip-02-2026-10-24",
+      "summary": "【Funkot?】MUSE MOLT : Field Trip 02（Aki Sz 出演）",
+      "location": "中野 heavysick ZERO",
+      "start": "2026-10-24T14:00:00+09:00",
+      "end": "2026-10-24T20:30:00+09:00",
+      "url": "https://x.com/akisz_/status/2113093338010365969",
+      "source": "X @akisz_ 本人告知（@musemolt D-3 告知 2112846361389576431 を引用）＋@musemolt 告知 https://x.com/i/status/2099487797908529328 / 出演者画像",
+      "notes": "確度根拠: 監視 Funkot DJ Aki Sz（@akisz_）が MAIN FLOOR (B1) に出演。ただしイベントは一般 DJ パーティーで、本人告知のセットは自レーベル曲・M3新譜・Rave・Tekno 中心（Funkot 明記なし）。本人枠の時刻は未公表。DOOR 3500円 1D別。",
+      "status": "tentative",
+      "sync_state": "pending",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
+    },
+    {
       "id": "gravity-bonkers-3rd-2026-10-25",
       "summary": "GRAVITY -BONKERS 3rd Anniversary-",
       "location": "DJ BAR BONKERS（千葉県千葉市中央区富士見1-13-3 進栄ビル2F）",
@@ -144,6 +157,32 @@
       "notes": "入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら",
       "status": "confirmed",
       "google_event_id": "bsivmsgif10enlkfahekbvh848"
+    },
+    {
+      "id": "chikkaidou-2026-11-22",
+      "summary": "【Funkot?】チッカイドウ",
+      "location": "PLASTIC THEATER（プラスティック・シアター、北海道札幌市）",
+      "start": "2026-11-22T14:00:00+09:00",
+      "end": "2026-11-22T20:00:00+09:00",
+      "url": "https://x.com/yryrfnmyi/status/2112723421780156914",
+      "source": "X @yryrfnmyi（さえ一）1ヶ月前告知 / flyer（初出 https://x.com/yryrfnmyi/status/2099103367855485303 RT funkot_info）",
+      "notes": "確度根拠: 監視 Funkot DJ さえ一（@yryrfnmyi、フライヤー表記 saegsa）本人が告知・出演、千葉勢がファンコットを持ち込む発言あり。ただしイベント自体はハードダンス寄りで Funkot 明記なし。フライヤー 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円。出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa。",
+      "status": "tentative",
+      "sync_state": "pending",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
+    },
+    {
+      "id": "be-music-squad-2-2026-11-29",
+      "summary": "【Funkot?】Be Music Squad 2",
+      "location": "千日前ギルドネオ（大阪市中央区千日前1-6-8 的場ビル2F 26号室）",
+      "start": "2026-11-29T13:50:00+09:00",
+      "end": "2026-11-29T20:30:00+09:00",
+      "url": "https://x.com/i/status/2112482418720665893",
+      "source": "X @kju_8 出演告知（RT @funkot_info）/ 公式 https://bmsquad2.1my.jp/",
+      "notes": "確度根拠: 出演者 kju_8（Takuya Namba 名義）が「BMSで出してきたファンコットをかける」と告知。イベント自体は BMS 作家の音楽パーティーで Funkot 専門ではない。kju_8 は監視リスト外。時刻は公式サイトで 13:50〜20:30 を確認（2026-10-23）。入場無料（ドリンク1杯以上注文必須）。本人枠の時刻は未公表。",
+      "status": "tentative",
+      "sync_state": "pending",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
     },
     {
       "id": "uchiage-funkot-2026-12-26",

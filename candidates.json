@@ -1,23 +1,7 @@
 {
   "version": 1,
-  "updated_at": "2026-10-22T12:06:00+09:00",
+  "updated_at": "2026-10-23T18:20:00+09:00",
   "candidates": [
-    {
-      "id": "chikkaidou-2026-11-22",
-      "summary": "チッカイドウ",
-      "location": "PLASTIC THEATER（北海道札幌市）",
-      "date": "2026-11-22",
-      "start": "14:00",
-      "url": "https://x.com/yryrfnmyi/status/2099103367855485303",
-      "source": "X @yryrfnmyi (RT funkot_info) / flyer image",
-      "missing": [
-        "Funkot オンリー/明確セット"
-      ],
-      "relevance": "partial_performer_funkot_intent_not_event_branded",
-      "notes": "チラシに日時会場あり・OPEN未記載。千葉勢がファンコットを持ち込む発言ありだがイベント自体はハードダンス寄り。2026-09-15定例でもOPEN/明確Funkot未達のため候補維持。 | 2026-10-22: @yryrfnmyi 1ヶ月前告知（https://x.com/yryrfnmyi/status/2112723421780156914）のフライヤーで 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円、出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa（さえ一本人かは未確認）。Funkot 明記なしのため候補維持。",
-      "seen_at": "2026-10-22T12:06:00+09:00",
-      "end": "20:00"
-    },
     {
       "id": "hiroshima-tikke-ops",
       "summary": "広島ティッケー大作戦",
@@ -33,57 +17,8 @@
         "一次URL"
       ],
       "relevance": "funkot_performer_named_no_datetime_venue",
-      "notes": "Funkot出演明記・日付会場なし。",
+      "notes": "Funkot出演明記・日付会場なし。 | 2026-10-23 方針変更で再判定: 開催日不明のため候補維持。",
       "seen_at": "2026-09-20T03:15:25Z"
-    },
-    {
-      "id": "house-beat-2026-10-22",
-      "summary": "HOUSE BEAT",
-      "location": "渋谷Another Dimension",
-      "date": "2026-10-22",
-      "start": "19:00",
-      "url": "https://x.com/ryu_hachi/status/2101588830528958864",
-      "source": "X @ryu_hachi (RT @funkot_info)",
-      "missing": [
-        "終了時刻",
-        "オンリー/明確セットの確定"
-      ],
-      "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
-      "notes": "告知は「#Funkot を中心に多彩な音楽」。Baltimoreクラブ＋スペイン語ファンコット言及。終了未記載。オンリー/明確セット未達のため候補。DOOR 2000円(2d)。DJ: DAI-NAGON/mionn/neneeedy/nao_11/りゅっぱち。 2026-10-18再読: 10/13 RT でも「#Funkot を中心に多彩な音楽」「Funkot+α」表記のまま。候補維持。",
-      "seen_at": "2026-10-18T03:02:53Z"
-    },
-    {
-      "id": "musemolt-field-trip-02-2026-10-24",
-      "summary": "MUSE MOLT : Field Trip 02（Aki Sz 出演）",
-      "location": "中野 heavysick ZERO",
-      "date": "2026-10-24",
-      "start": "14:00",
-      "end": "20:30",
-      "url": "https://x.com/akisz_/status/2113093338010365969",
-      "source": "X @akisz_ 本人告知＋@musemolt 告知 https://x.com/i/status/2099487797908529328 / 出演者画像",
-      "missing": [
-        "Funkot 明記（本人は M3新譜・Rave・Tekno 中心のセットと告知）",
-        "本人枠の時刻（未公表）"
-      ],
-      "relevance": "watched_funkot_dj_at_general_event",
-      "notes": "一般 DJ パーティー（DOOR 3500円 1D別）。Aki Sz は MAIN FLOOR (B1)。フライヤー画像確認、タイムテーブル未公表。カレンダーには載せない。",
-      "seen_at": "2026-10-22T12:06:00+09:00"
-    },
-    {
-      "id": "be-music-squad-2-2026-11-29",
-      "summary": "Be Music Squad 2",
-      "location": "大阪 千日前 ギルドネオ",
-      "date": "2026-11-29",
-      "start": null,
-      "url": "https://x.com/i/status/2112482418720665893",
-      "source": "X @kju_8（RT @funkot_info）",
-      "missing": [
-        "OPEN/開始時刻",
-        "Funkot オンリー/明確セット（BMS作者パーティーで出演者1名がファンコットをかける予定と告知）"
-      ],
-      "relevance": "performer_plans_funkot_set_at_general_event",
-      "notes": "kju_8（Takuya Namba 名義）が BMS で出したファンコットをかける予定。イベント自体は BMS 作者の音楽パーティー。監視リスト外の DJ。",
-      "seen_at": "2026-10-22T12:06:00+09:00"
     }
   ],
   "dropped": [
@@ -123,6 +58,13 @@
       "id": "yabai-bar-relative-week",
       "reason": "9/20時点の相対表現（今週土曜）のまま会場/日付未確定で期限経過",
       "dropped_at": "2026-10-18T03:02:53Z"
+    },
+    {
+      "id": "house-beat-2026-10-22",
+      "reason": "開催日（2026-10-22）経過のため掲載せず。方針変更（2026-10-23）時点で過去日",
+      "dropped_at": "2026-10-23T18:20:00+09:00",
+      "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
+      "url": "https://x.com/ryu_hachi/status/2101588830528958864"
     }
   ],
   "promoted": [
@@ -130,6 +72,21 @@
       "id": "eurasia-drift-2026-10-23",
       "promoted_at": "2026-10-21T23:35:00+09:00",
       "reason": "ユーザー判断（2026-10-21 23:22 JST）で確定掲載。さえ一がファンコット軸で出演"
+    },
+    {
+      "id": "musemolt-field-trip-02-2026-10-24",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
+    },
+    {
+      "id": "chikkaidou-2026-11-22",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
+    },
+    {
+      "id": "be-music-squad-2-2026-11-29",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
     }
   ]
 }

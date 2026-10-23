@@ -7,7 +7,7 @@ X-WR-CALNAME:Funkot Parties
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:mogra-funkot-matsuri-2026@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20260321T140000
 DTEND;TZID=Asia/Tokyo:20260321T200000
 SUMMARY:大MOGRAファンコットまつり2026
@@ -17,7 +17,7 @@ URL:https://club-mogra.jp/2026/03/21/8748/
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-summer@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20260815T150000
 DTEND;TZID=Asia/Tokyo:20260815T200000
 SUMMARY:Season of Funkot 夏の陣
@@ -27,7 +27,7 @@ URL:https://djeventsearch.com/en/event/2026-08-15-asakusa-stella-season-of-funko
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-friday-2026-09-04@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20260904T190000
 DTEND;TZID=Asia/Tokyo:20260904T230000
 SUMMARY:ENAK FRIDAY
@@ -37,7 +37,7 @@ URL:https://x.com/totsumal/status/2095479131182157863
 END:VEVENT
 BEGIN:VEVENT
 UID:nhac-hay-nhat-2026-09-20@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20260920T143000
 DTEND;TZID=Asia/Tokyo:20260920T213000
 SUMMARY:Nhạc Hay Nhất（ニャックハイニャット）
@@ -47,7 +47,7 @@ URL:https://x.com/wayve_1a2b/status/2100911874858758337
 END:VEVENT
 BEGIN:VEVENT
 UID:bayanganobat-2026-09-23@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20260923T150000
 DTEND;TZID=Asia/Tokyo:20260923T200000
 SUMMARY:BAYANGANOBAT（FUNKOT オンリー）
@@ -57,7 +57,7 @@ URL:https://x.com/waku__/status/2094627826674901079
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-angel-2026-10-22@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261022T210000
 DTEND;TZID=Asia/Tokyo:20261023T000000
 SUMMARY:Enak Angel
@@ -67,7 +67,7 @@ URL:https://x.com/TeNgusaaa/status/2107682265191088317
 END:VEVENT
 BEGIN:VEVENT
 UID:eurasia-drift-2026-10-23@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261023T190000
 DTEND;TZID=Asia/Tokyo:20261023T233000
 SUMMARY:EURASIA DRIFT
@@ -76,8 +76,19 @@ DESCRIPTION:イベント自体は Funkot 専門ではない。さえ一がファ
 URL:https://x.com/yryrfnmyi/status/2112719355737968704
 END:VEVENT
 BEGIN:VEVENT
+UID:musemolt-field-trip-02-2026-10-24@funkot-parties.yasuyuki
+DTSTAMP:20261023T091504Z
+DTSTART;TZID=Asia/Tokyo:20261024T140000
+DTEND;TZID=Asia/Tokyo:20261024T203000
+SUMMARY:【Funkot?】MUSE MOLT : Field Trip 02（Aki Sz 出演）
+LOCATION:中野 heavysick ZERO
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: 監視 Funkot DJ Aki Sz（@akisz_）が MAIN FLOOR (B1) に出演。ただしイベントは一般 DJ パーティーで、本人告知のセットは自レーベル曲・M3新譜・Rave・Tekno 中心（Funkot 明記なし）。本人枠の時刻は未公表。DOOR 3500円 1D別。\nhttps://x.com/akisz_/status/2113093338010365969\nsource: X @akisz_ 本人告知（@musemolt D-3 告知 2112846361389576431 を引用）＋@musemolt 告知 https://x.com/i/status/2099487797908529328 / 出演者画像
+URL:https://x.com/akisz_/status/2113093338010365969
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:gravity-bonkers-3rd-2026-10-25@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261025T150000
 DTEND;TZID=Asia/Tokyo:20261025T220000
 SUMMARY:GRAVITY -BONKERS 3rd Anniversary-
@@ -87,7 +98,7 @@ URL:https://x.com/yryrfnmyi/status/2112719355737968704
 END:VEVENT
 BEGIN:VEVENT
 UID:dugem-advance-04-2026-10-31@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
 DTEND;TZID=Asia/Tokyo:20261031T200000
 SUMMARY:DUGEM ADVANCE 04
@@ -97,7 +108,7 @@ URL:https://x.com/akisz_/status/2099090708921716762
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-friday-2026-11-06@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261106T190000
 DTEND;TZID=Asia/Tokyo:20261106T230000
 SUMMARY:ENAK FRIDAY
@@ -107,7 +118,7 @@ URL:https://x.com/totsumal/status/2112867525105262812
 END:VEVENT
 BEGIN:VEVENT
 UID:season-of-funkot-2026-autumn@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261107T150000
 DTEND;TZID=Asia/Tokyo:20261107T200000
 SUMMARY:Season of Funkot 秋の陣
@@ -116,8 +127,30 @@ DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUES
 URL:https://x.com/jamojisan1428/status/2103789646660636742
 END:VEVENT
 BEGIN:VEVENT
+UID:chikkaidou-2026-11-22@funkot-parties.yasuyuki
+DTSTAMP:20261023T091504Z
+DTSTART;TZID=Asia/Tokyo:20261122T140000
+DTEND;TZID=Asia/Tokyo:20261122T200000
+SUMMARY:【Funkot?】チッカイドウ
+LOCATION:PLASTIC THEATER（プラスティック・シアター、北海道札幌市）
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: 監視 Funkot DJ さえ一（@yryrfnmyi、フライヤー表記 saegsa）本人が告知・出演、千葉勢がファンコットを持ち込む発言あり。ただしイベント自体はハードダンス寄りで Funkot 明記なし。フライヤー 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円。出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa。\nhttps://x.com/yryrfnmyi/status/2112723421780156914\nsource: X @yryrfnmyi（さえ一）1ヶ月前告知 / flyer（初出 https://x.com/yryrfnmyi/status/2099103367855485303 RT funkot_info）
+URL:https://x.com/yryrfnmyi/status/2112723421780156914
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be-music-squad-2-2026-11-29@funkot-parties.yasuyuki
+DTSTAMP:20261023T091504Z
+DTSTART;TZID=Asia/Tokyo:20261129T135000
+DTEND;TZID=Asia/Tokyo:20261129T203000
+SUMMARY:【Funkot?】Be Music Squad 2
+LOCATION:千日前ギルドネオ（大阪市中央区千日前1-6-8 的場ビル2F 26号室）
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: 出演者 kju_8（Takuya Namba 名義）が「BMSで出してきたファンコットをかける」と告知。イベント自体は BMS 作家の音楽パーティーで Funkot 専門ではない。kju_8 は監視リスト外。時刻は公式サイトで 13:50〜20:30 を確認（2026-10-23）。入場無料（ドリンク1杯以上注文必須）。本人枠の時刻は未公表。\nhttps://x.com/i/status/2112482418720665893\nsource: X @kju_8 出演告知（RT @funkot_info）/ 公式 https://bmsquad2.1my.jp/
+URL:https://x.com/i/status/2112482418720665893
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:uchiage-funkot-2026-12-26@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261226T133000
 DTEND;TZID=Asia/Tokyo:20261226T180000
 SUMMARY:うちあげふぁんこっと
@@ -127,7 +160,7 @@ URL:https://x.com/milfiiyu/status/2110694443041091792
 END:VEVENT
 BEGIN:VEVENT
 UID:enak-angel-2026-12-27@funkot-parties.yasuyuki
-DTSTAMP:20261023T030831Z
+DTSTAMP:20261023T091504Z
 DTSTART;TZID=Asia/Tokyo:20261227T140000
 DTEND;TZID=Asia/Tokyo:20261227T200000
 SUMMARY:Enak Angel 2nd
