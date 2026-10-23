@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-10-23T18:20:00+09:00",
+  "updated_at": "2026-10-23T18:22:00+09:00",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -103,8 +103,11 @@
       "source": "X @akisz_ 本人告知（@musemolt D-3 告知 2112846361389576431 を引用）＋@musemolt 告知 https://x.com/i/status/2099487797908529328 / 出演者画像",
       "notes": "確度根拠: 監視 Funkot DJ Aki Sz（@akisz_）が MAIN FLOOR (B1) に出演。ただしイベントは一般 DJ パーティーで、本人告知のセットは自レーベル曲・M3新譜・Rave・Tekno 中心（Funkot 明記なし）。本人枠の時刻は未公表。DOOR 3500円 1D別。",
       "status": "tentative",
-      "sync_state": "pending",
-      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
+      "sync_state": "synced",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）",
+      "google_event_id": "15fo7rjpod2e6c35hnklmud7ts",
+      "last_sync_error": null,
+      "last_synced_at": "2026-10-23T18:22:00+09:00"
     },
     {
       "id": "gravity-bonkers-3rd-2026-10-25",
@@ -168,8 +171,11 @@
       "source": "X @yryrfnmyi（さえ一）1ヶ月前告知 / flyer（初出 https://x.com/yryrfnmyi/status/2099103367855485303 RT funkot_info）",
       "notes": "確度根拠: 監視 Funkot DJ さえ一（@yryrfnmyi、フライヤー表記 saegsa）本人が告知・出演、千葉勢がファンコットを持ち込む発言あり。ただしイベント自体はハードダンス寄りで Funkot 明記なし。フライヤー 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円。出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa。",
       "status": "tentative",
-      "sync_state": "pending",
-      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
+      "sync_state": "synced",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）",
+      "google_event_id": "o4f76iv7hj35jl6g1l068houf8",
+      "last_sync_error": null,
+      "last_synced_at": "2026-10-23T18:22:00+09:00"
     },
     {
       "id": "be-music-squad-2-2026-11-29",
@@ -181,8 +187,11 @@
       "source": "X @kju_8 出演告知（RT @funkot_info）/ 公式 https://bmsquad2.1my.jp/",
       "notes": "確度根拠: 出演者 kju_8（Takuya Namba 名義）が「BMSで出してきたファンコットをかける」と告知。イベント自体は BMS 作家の音楽パーティーで Funkot 専門ではない。kju_8 は監視リスト外。時刻は公式サイトで 13:50〜20:30 を確認（2026-10-23）。入場無料（ドリンク1杯以上注文必須）。本人枠の時刻は未公表。",
       "status": "tentative",
-      "sync_state": "pending",
-      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）"
+      "sync_state": "synced",
+      "promoted_from": "candidates.json 2026-10-23（方針変更: false negative 回避）",
+      "google_event_id": "3g6b4p4164e5suqhh0btico698",
+      "last_sync_error": null,
+      "last_synced_at": "2026-10-23T18:22:00+09:00"
     },
     {
       "id": "uchiage-funkot-2026-12-26",
