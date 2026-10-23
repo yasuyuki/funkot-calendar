@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-10-21T23:35:00+09:00",
+  "updated_at": "2026-10-23T03:08:31Z",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -159,6 +159,19 @@
       "google_event_id": "5hueqin8f0n8sv7s5nbd3glvqc",
       "last_sync_error": null,
       "last_synced_at": "2026-10-19T12:10:00+09:00"
+    },
+    {
+      "id": "enak-angel-2026-12-27",
+      "summary": "Enak Angel 2nd",
+      "location": "大阪 東梅田 MEMEME（お初天神通り）",
+      "start": "2026-12-27T14:00:00+09:00",
+      "end": "2026-12-27T20:00:00+09:00",
+      "url": "https://kokuchune.com/n/721a1349-3042-4328-8a37-a18255525dbf",
+      "source": "kokuchune（nuxyotaurus）/ X @nuxyotaurus 2113239638047699248（RT Richiter→jamojisan1428）",
+      "notes": "大阪発のFunkotパーティー Enak Angel 第2回（初のリアル開催）。当日 2500円+1D600円、ADV予約で500円引き（12/27 13:00 まで）。Guest: Richiter, DJtagosaku（DDB-DJ™）/ VJ: SIDE-7 / Resident: るえ, nuxyotaurus, Donchan, TeNgusa。https://www.mememe.info/",
+      "status": "confirmed",
+      "sync_state": "pending",
+      "last_sync_error": null
     }
   ],
   "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
