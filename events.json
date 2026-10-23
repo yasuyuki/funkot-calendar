@@ -170,8 +170,10 @@
       "source": "kokuchune（nuxyotaurus）/ X @nuxyotaurus 2113239638047699248（RT Richiter→jamojisan1428）",
       "notes": "大阪発のFunkotパーティー Enak Angel 第2回（初のリアル開催）。当日 2500円+1D600円、ADV予約で500円引き（12/27 13:00 まで）。Guest: Richiter, DJtagosaku（DDB-DJ™）/ VJ: SIDE-7 / Resident: るえ, nuxyotaurus, Donchan, TeNgusa。https://www.mememe.info/",
       "status": "confirmed",
-      "sync_state": "pending",
-      "last_sync_error": null
+      "sync_state": "synced",
+      "last_sync_error": null,
+      "google_event_id": "kqe14jdru0u6k620k06mt8ui78",
+      "last_synced_at": "2026-10-23T12:12:00+09:00"
     }
   ],
   "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
