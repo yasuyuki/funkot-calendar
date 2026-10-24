@@ -107,6 +107,16 @@ DESCRIPTION:DOOR ¥3\,000/1D・#DA1031 #Funkot・madmaid/tellur/Wam VB/Wayve/mas
 URL:https://x.com/akisz_/status/2099090708921716762
 END:VEVENT
 BEGIN:VEVENT
+UID:enakota-2026-11-04@funkot-parties.yasuyuki
+DTSTAMP:20261024T031200Z
+DTSTART;TZID=Asia/Tokyo:20261104T180000
+DTEND;TZID=Asia/Tokyo:20261104T210000
+SUMMARY:ENAKOTA（エナコタ）
+LOCATION:長野市 the Venue
+DESCRIPTION:確度根拠: 告知本文「Funkotがたっぷり3時間聴ける平日イベント」#Funkot、フライヤーに「ファンコットマツリ」。¥1\,600（1D付）。DJs: SYAVA\, ZeCKT\, ミツミ（フライヤー画像で確認）。\nhttps://x.com/SyavaDa/status/2113555710718152824\nsource: X @SyavaDa 再告知（RT @jamojisan1428）
+URL:https://x.com/SyavaDa/status/2113555710718152824
+END:VEVENT
+BEGIN:VEVENT
 UID:enak-friday-2026-11-06@funkot-parties.yasuyuki
 DTSTAMP:20261023T091541Z
 DTSTART;TZID=Asia/Tokyo:20261106T190000
@@ -135,6 +145,17 @@ SUMMARY:【Funkot?】チッカイドウ
 LOCATION:PLASTIC THEATER（プラスティック・シアター、北海道札幌市）
 DESCRIPTION:確度: tentative（未確定）\n確度根拠: 監視 Funkot DJ さえ一（@yryrfnmyi、フライヤー表記 saegsa）本人が告知・出演、千葉勢がファンコットを持ち込む発言あり。ただしイベント自体はハードダンス寄りで Funkot 明記なし。フライヤー 14:00-20:00・通常4000円/チッカイ割2200円/フライヤー割3500円。出演 DJ Noriken B2B RoughSketch / DJ CHAMP & MC 楽天斎 / s-don B2B Ranchen B2B MATSUDA / PRIDASK / ossa / saegsa。\nhttps://x.com/yryrfnmyi/status/2112723421780156914\nsource: X @yryrfnmyi（さえ一）1ヶ月前告知 / flyer（初出 https://x.com/yryrfnmyi/status/2099103367855485303 RT funkot_info）
 URL:https://x.com/yryrfnmyi/status/2112723421780156914
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dainagon-seitansai-2026-11-22@funkot-parties.yasuyuki
+DTSTAMP:20261024T031200Z
+DTSTART;TZID=Asia/Tokyo:20261122T160000
+DTEND;TZID=Asia/Tokyo:20261122T220000
+SUMMARY:【Funkot?】大納言聖誕祭2026
+LOCATION:渋谷 Another Dimension 大ホール
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: Funkot 明記なし。ENAK FRIDAY 主催の DAI-NAGON の生誕イベントで、監視 DJ totsumal が出演。¥2\,000/2drink。出演: 大納言\, akira\, Bash\, suleiman.jp\, totsumal\, サブリミナルお母さん\, 強盗（フライヤー画像で確認）。各枠時刻は未公表。\nhttps://x.com/dng_funky/status/2113127706363879738\nsource: X @dng_funky（ENAK FRIDAY 主催・DAI-NAGON）告知（RT @totsumal）
+URL:https://x.com/dng_funky/status/2113127706363879738
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT

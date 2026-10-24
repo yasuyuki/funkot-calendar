@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Tokyo",
-  "updated_at": "2026-10-23T18:22:00+09:00",
+  "updated_at": "2026-10-24T12:12:00+09:00",
   "legacy_note": "Community FUNKOTERカレンダー (6adnfsugrse11b4kaah1tjdb2o@group.calendar.google.com) is read-only and stale; this store is the new source of truth.",
   "events": [
     {
@@ -135,6 +135,19 @@
       "google_event_id": "ailaa5nf7khckjaqqh6ke6s03g"
     },
     {
+      "id": "enakota-2026-11-04",
+      "summary": "ENAKOTA（エナコタ）",
+      "location": "長野市 the Venue",
+      "start": "2026-11-04T18:00:00+09:00",
+      "end": "2026-11-04T21:00:00+09:00",
+      "url": "https://x.com/SyavaDa/status/2113555710718152824",
+      "source": "X @SyavaDa 再告知（RT @jamojisan1428）",
+      "notes": "確度根拠: 告知本文「Funkotがたっぷり3時間聴ける平日イベント」#Funkot、フライヤーに「ファンコットマツリ」。¥1,600（1D付）。DJs: SYAVA, ZeCKT, ミツミ（フライヤー画像で確認）。",
+      "status": "confirmed",
+      "sync_state": "pending",
+      "last_sync_error": null
+    },
+    {
       "id": "enak-friday-2026-11-06",
       "summary": "ENAK FRIDAY",
       "location": "渋谷Another Dimension",
@@ -176,6 +189,19 @@
       "google_event_id": "o4f76iv7hj35jl6g1l068houf8",
       "last_sync_error": null,
       "last_synced_at": "2026-10-23T18:22:00+09:00"
+    },
+    {
+      "id": "dainagon-seitansai-2026-11-22",
+      "summary": "【Funkot?】大納言聖誕祭2026",
+      "location": "渋谷 Another Dimension 大ホール",
+      "start": "2026-11-22T16:00:00+09:00",
+      "end": "2026-11-22T22:00:00+09:00",
+      "url": "https://x.com/dng_funky/status/2113127706363879738",
+      "source": "X @dng_funky（ENAK FRIDAY 主催・DAI-NAGON）告知（RT @totsumal）",
+      "notes": "確度根拠: Funkot 明記なし。ENAK FRIDAY 主催の DAI-NAGON の生誕イベントで、監視 DJ totsumal が出演。¥2,000/2drink。出演: 大納言, akira, Bash, suleiman.jp, totsumal, サブリミナルお母さん, 強盗（フライヤー画像で確認）。各枠時刻は未公表。",
+      "status": "tentative",
+      "sync_state": "pending",
+      "last_sync_error": null
     },
     {
       "id": "be-music-squad-2-2026-11-29",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T18:20:00+09:00",
+  "updated_at": "2026-10-24T12:12:00+09:00",
   "candidates": [
     {
       "id": "hiroshima-tikke-ops",
@@ -65,6 +65,12 @@
       "dropped_at": "2026-10-23T18:20:00+09:00",
       "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
       "url": "https://x.com/ryu_hachi/status/2101588830528958864"
+    },
+    {
+      "id": "rising-halloween-2026-10-24",
+      "reason": "浅草STELLA 今週末告知。Funkot シグナルなし（Java Sparrow Music 等）",
+      "dropped_at": "2026-10-24T12:12:00+09:00",
+      "url": "https://x.com/AsakusaStella/status/2113827980783001833"
     }
   ],
   "promoted": [
