@@ -144,8 +144,10 @@
       "source": "X @SyavaDa 再告知（RT @jamojisan1428）",
       "notes": "確度根拠: 告知本文「Funkotがたっぷり3時間聴ける平日イベント」#Funkot、フライヤーに「ファンコットマツリ」。¥1,600（1D付）。DJs: SYAVA, ZeCKT, ミツミ（フライヤー画像で確認）。",
       "status": "confirmed",
-      "sync_state": "pending",
-      "last_sync_error": null
+      "sync_state": "synced",
+      "last_sync_error": null,
+      "google_event_id": "hh09dpvghij9c5j066e62sltpg",
+      "last_synced_at": "2026-10-24T12:14:00+09:00"
     },
     {
       "id": "enak-friday-2026-11-06",
@@ -200,8 +202,10 @@
       "source": "X @dng_funky（ENAK FRIDAY 主催・DAI-NAGON）告知（RT @totsumal）",
       "notes": "確度根拠: Funkot 明記なし。ENAK FRIDAY 主催の DAI-NAGON の生誕イベントで、監視 DJ totsumal が出演。¥2,000/2drink。出演: 大納言, akira, Bash, suleiman.jp, totsumal, サブリミナルお母さん, 強盗（フライヤー画像で確認）。各枠時刻は未公表。",
       "status": "tentative",
-      "sync_state": "pending",
-      "last_sync_error": null
+      "sync_state": "synced",
+      "last_sync_error": null,
+      "google_event_id": "rg08kgr9ebhprtrf0iq753lv3c",
+      "last_synced_at": "2026-10-24T12:14:00+09:00"
     },
     {
       "id": "be-music-squad-2-2026-11-29",
