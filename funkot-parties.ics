@@ -97,6 +97,17 @@ DESCRIPTION:イベント自体は Funkot 専門ではない。さえ一がファ
 URL:https://x.com/yryrfnmyi/status/2112719355737968704
 END:VEVENT
 BEGIN:VEVENT
+UID:dousoukai-another-dimension-2026-10-30@funkot-parties.yasuyuki
+DTSTAMP:20261026T031500Z
+DTSTART;TZID=Asia/Tokyo:20261030T180000
+DTEND;TZID=Asia/Tokyo:20261030T223000
+SUMMARY:【Funkot?】Another Dimension Presents 同窓会
+LOCATION:渋谷 Another Dimension
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: Funkot 明記なし。監視 DJ totsumal（Dugem Rising / ENAK）が一般イベントに出演。¥1\,000 Inc.2D。DJs: Bound Round\, DJ JOSHIKOSEI\, Dychu\, muramura\, totsumal\, ジャージ佐藤\, デス山\, 床上中（フライヤー画像で確認）。各枠時刻は未公表。\nhttps://x.com/totsumal/status/2114357242439074111\nsource: X @totsumal 出演告知（フライヤー画像）
+URL:https://x.com/totsumal/status/2114357242439074111
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:dugem-advance-04-2026-10-31@funkot-parties.yasuyuki
 DTSTAMP:20261023T091541Z
 DTSTART;TZID=Asia/Tokyo:20261031T140000
@@ -133,7 +144,7 @@ DTSTART;TZID=Asia/Tokyo:20261107T150000
 DTEND;TZID=Asia/Tokyo:20261107T200000
 SUMMARY:Season of Funkot 秋の陣
 LOCATION:Asakusa STELLA
-DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら\nhttps://x.com/jamojisan1428/status/2103789646660636742\nsource: X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)
+DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら | TT(2026-10-25 公開・画像確認): 15:00 Panyaki / 15:50 mionn / 16:40 Wam / 17:30 Shimo Hisae（撮影NG）/ 18:20 Aki L3 / 19:10 Lza-TC。TT告知 https://x.com/jamojisan1428/status/2114296078619312184\nhttps://x.com/jamojisan1428/status/2103789646660636742\nsource: X @jamojisan1428 (RT AsakusaStella・_Wam_jp・akisz_)
 URL:https://x.com/jamojisan1428/status/2103789646660636742
 END:VEVENT
 BEGIN:VEVENT
