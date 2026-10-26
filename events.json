@@ -175,7 +175,9 @@
    "notes": "入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUEST: Aki L3/mionn/Shimo Hisae・DJ: Lza-TC/Panyaki/VerticalBeat Wam・Flyer:ぬいばら | TT(2026-10-25 公開・画像確認): 15:00 Panyaki / 15:50 mionn / 16:40 Wam / 17:30 Shimo Hisae（撮影NG）/ 18:20 Aki L3 / 19:10 Lza-TC。TT告知 https://x.com/jamojisan1428/status/2114296078619312184",
    "status": "confirmed",
    "google_event_id": "bsivmsgif10enlkfahekbvh848",
-   "sync_state": "pending"
+   "sync_state": "synced",
+   "last_sync_error": null,
+   "last_synced_at": "2026-10-26T12:18:00+09:00"
   },
   {
    "id": "chikkaidou-2026-11-22",
@@ -264,7 +266,10 @@
    "source": "X @totsumal 出演告知（フライヤー画像）",
    "notes": "確度根拠: Funkot 明記なし。監視 DJ totsumal（Dugem Rising / ENAK）が一般イベントに出演。¥1,000 Inc.2D。DJs: Bound Round, DJ JOSHIKOSEI, Dychu, muramura, totsumal, ジャージ佐藤, デス山, 床上中（フライヤー画像で確認）。各枠時刻は未公表。",
    "status": "tentative",
-   "sync_state": "pending"
+   "sync_state": "synced",
+   "google_event_id": "j9co19ih1c3o38rg03v2aatjrg",
+   "last_sync_error": null,
+   "last_synced_at": "2026-10-26T12:18:00+09:00"
   }
  ],
  "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
