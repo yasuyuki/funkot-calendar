@@ -280,8 +280,10 @@
       "source": "X @bar_triangel 告知（フライヤー画像）/ RT @akisz_",
       "notes": "確度根拠: Funkot 明記なし（フライヤー表記 HARDCORE / BREAKCORE / TEKNO）。監視 Funkot DJ Aki Sz（@akisz_）が出演。OPEN 19:45・CLOSE 未定（終日扱い）。¥2,000+1D。出演 96-glass / Aki Sz / baibukken / ELECTR / Lazhward / Moetek / MAID TWIST / pencil（フライヤー画像で確認）。各枠時刻は未公表。",
       "status": "tentative",
-      "sync_state": "pending",
-      "last_sync_error": null
+      "sync_state": "synced",
+      "last_sync_error": null,
+      "google_event_id": "gvibtdup5748igmafi9bm6pamk",
+      "last_synced_at": "2026-10-30T12:12:00+09:00"
     }
   ],
   "google_calendar_id": "bcbeb006239562a96855eaca1bbc88a2294aa2bacc526f8f22c85ef865354763@group.calendar.google.com"
