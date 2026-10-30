@@ -148,6 +148,16 @@ DESCRIPTION:入場 ¥3000(1ドリンク付) #SOF26秋 #Funkotオンリー・GUES
 URL:https://x.com/jamojisan1428/status/2103789646660636742
 END:VEVENT
 BEGIN:VEVENT
+UID:sankaku-enkaku-kansokujo-2026-11-21@funkot-parties.yasuyuki
+DTSTAMP:20261030T030800Z
+DTSTART;TZID=Asia/Tokyo:20261121T194500
+SUMMARY:【Funkot?】三角遠隔観測所 TRIANGLE REMOTE OBSERVATORY
+LOCATION:熊本アニソンバー とらい★あんぐる（熊本県熊本市中央区下通1-7-8 ナイトビル2F）
+DESCRIPTION:確度: tentative（未確定）\n確度根拠: Funkot 明記なし（フライヤー表記 HARDCORE / BREAKCORE / TEKNO）。監視 Funkot DJ Aki Sz（@akisz_）が出演。OPEN 19:45・CLOSE 未定（終日扱い）。¥2\,000+1D。出演 96-glass / Aki Sz / baibukken / ELECTR / Lazhward / Moetek / MAID TWIST / pencil（フライヤー画像で確認）。各枠時刻は未公表。\nhttps://x.com/bar_triangel/status/2115398946076160447\nsource: X @bar_triangel 告知（フライヤー画像）/ RT @akisz_
+URL:https://x.com/bar_triangel/status/2115398946076160447
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
 UID:chikkaidou-2026-11-22@funkot-parties.yasuyuki
 DTSTAMP:20261023T091541Z
 DTSTART;TZID=Asia/Tokyo:20261122T140000

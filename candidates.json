@@ -1,104 +1,110 @@
 {
- "version": 1,
- "updated_at": "2026-10-26T12:15:00+09:00",
- "candidates": [
-  {
-   "id": "hiroshima-tikke-ops",
-   "summary": "広島ティッケー大作戦",
-   "location": null,
-   "date": null,
-   "start": null,
-   "url": null,
-   "source": "CMO 2026-09-20 watch",
-   "missing": [
-    "日付",
-    "会場",
-    "OPEN",
-    "一次URL"
-   ],
-   "relevance": "funkot_performer_named_no_datetime_venue",
-   "notes": "Funkot出演明記・日付会場なし。 | 2026-10-23 方針変更で再判定: 開催日不明のため候補維持。 | 2026-10-25 再確認: 開催日不明のまま維持。 | 2026-10-26 再確認: 開催日不明のまま維持。",
-   "seen_at": "2026-09-20T03:15:25Z"
-  }
- ],
- "dropped": [
-  {
-   "id": "deathyama-night-2026-09-05",
-   "reason": "開催日経過・CLOSE/オンリー未確定のため候補から除外",
-   "dropped_at": "2026-09-06T03:06:06.612794+00:00"
-  },
-  {
-   "id": "bootleg-jinja-2026-09-11",
-   "reason": "開催日当日・Funkotオンリー/明確セット条項未達のまま昇格せず終了",
-   "dropped_at": "2026-09-11T03:05:53Z",
-   "relevance": "partial_wam_funkot_set_not_only"
-  },
-  {
-   "id": "massive-attack-coa-2026-09-20",
-   "reason": "4つ打ち総合パーティー。出演者がFunkot等までやろうかな程度でオンリー/明確セット未達",
-   "dropped_at": "2026-09-14T03:05:46Z",
-   "relevance": "partial_guest_maybe_funkot",
-   "url": "https://x.com/yasukei23916/status/2099094700343083331"
-  },
-  {
-   "id": "eurasia-drift-2026-10-23",
-   "reason": "多ジャンル（Funkot+Makina+Gabber+UKHC+Jungle）。オンリー/明確セット未達のため候補にも載せない",
-   "dropped_at": "2026-09-18T03:05:00Z",
-   "relevance": "multi_genre_lists_funkot_among_makina_gabber_ukhc",
-   "url": "https://x.com/AsagayaDrift/status/2100143226858688697"
-  },
-  {
-   "id": "akihard-2026-09-25",
-   "reason": "開催日経過・日境界未確定のまま昇格せず終了（Makina vs Funkot・オンリー/明確セット条項も未達）",
-   "dropped_at": "2026-09-26T02:50:10Z",
-   "relevance": "makina_vs_funkot_day_boundary_unclear",
-   "url": "https://x.com/_Wam_jp/status/2098754811558818015"
-  },
-  {
-   "id": "yabai-bar-relative-week",
-   "reason": "9/20時点の相対表現（今週土曜）のまま会場/日付未確定で期限経過",
-   "dropped_at": "2026-10-18T03:02:53Z"
-  },
-  {
-   "id": "house-beat-2026-10-22",
-   "reason": "開催日（2026-10-22）経過のため掲載せず。方針変更（2026-10-23）時点で過去日",
-   "dropped_at": "2026-10-23T18:20:00+09:00",
-   "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
-   "url": "https://x.com/ryu_hachi/status/2101588830528958864"
-  },
-  {
-   "id": "rising-halloween-2026-10-24",
-   "reason": "浅草STELLA 今週末告知。Funkot シグナルなし（Java Sparrow Music 等）",
-   "dropped_at": "2026-10-24T12:12:00+09:00",
-   "url": "https://x.com/AsakusaStella/status/2113827980783001833"
-  },
-  {
-   "id": "23am-eternal-2026-12-19",
-   "reason": "akisz_ RT。出演者に監視 DJ なし・Funkot シグナルなし",
-   "dropped_at": "2026-10-26T12:15:00+09:00",
-   "url": "https://x.com/23AM_ETERNAL/status/2114311738225270792"
-  }
- ],
- "promoted": [
-  {
-   "id": "eurasia-drift-2026-10-23",
-   "promoted_at": "2026-10-21T23:35:00+09:00",
-   "reason": "ユーザー判断（2026-10-21 23:22 JST）で確定掲載。さえ一がファンコット軸で出演"
-  },
-  {
-   "id": "musemolt-field-trip-02-2026-10-24",
-   "promoted_at": "2026-10-23T18:20:00+09:00",
-   "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
-  },
-  {
-   "id": "chikkaidou-2026-11-22",
-   "promoted_at": "2026-10-23T18:20:00+09:00",
-   "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
-  },
-  {
-   "id": "be-music-squad-2-2026-11-29",
-   "promoted_at": "2026-10-23T18:20:00+09:00",
-   "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
-  }
- ]
+  "version": 1,
+  "updated_at": "2026-10-30T12:08:00+09:00",
+  "candidates": [
+    {
+      "id": "hiroshima-tikke-ops",
+      "summary": "広島ティッケー大作戦",
+      "location": null,
+      "date": null,
+      "start": null,
+      "url": null,
+      "source": "CMO 2026-09-20 watch",
+      "missing": [
+        "日付",
+        "会場",
+        "OPEN",
+        "一次URL"
+      ],
+      "relevance": "funkot_performer_named_no_datetime_venue",
+      "notes": "Funkot出演明記・日付会場なし。 | 2026-10-23 方針変更で再判定: 開催日不明のため候補維持。 | 2026-10-25 再確認: 開催日不明のまま維持。 | 2026-10-26 再確認: 開催日不明のまま維持。 | 2026-10-27 再確認: 開催日不明のまま維持。 | 2026-10-28 再確認: 開催日不明のまま維持。 | 2026-10-29 再確認: 開催日不明のまま維持。 | 2026-10-30 再確認: 開催日不明のまま維持。",
+      "seen_at": "2026-09-20T03:15:25Z"
+    }
+  ],
+  "dropped": [
+    {
+      "id": "deathyama-night-2026-09-05",
+      "reason": "開催日経過・CLOSE/オンリー未確定のため候補から除外",
+      "dropped_at": "2026-09-06T03:06:06.612794+00:00"
+    },
+    {
+      "id": "bootleg-jinja-2026-09-11",
+      "reason": "開催日当日・Funkotオンリー/明確セット条項未達のまま昇格せず終了",
+      "dropped_at": "2026-09-11T03:05:53Z",
+      "relevance": "partial_wam_funkot_set_not_only"
+    },
+    {
+      "id": "massive-attack-coa-2026-09-20",
+      "reason": "4つ打ち総合パーティー。出演者がFunkot等までやろうかな程度でオンリー/明確セット未達",
+      "dropped_at": "2026-09-14T03:05:46Z",
+      "relevance": "partial_guest_maybe_funkot",
+      "url": "https://x.com/yasukei23916/status/2099094700343083331"
+    },
+    {
+      "id": "eurasia-drift-2026-10-23",
+      "reason": "多ジャンル（Funkot+Makina+Gabber+UKHC+Jungle）。オンリー/明確セット未達のため候補にも載せない",
+      "dropped_at": "2026-09-18T03:05:00Z",
+      "relevance": "multi_genre_lists_funkot_among_makina_gabber_ukhc",
+      "url": "https://x.com/AsagayaDrift/status/2100143226858688697"
+    },
+    {
+      "id": "akihard-2026-09-25",
+      "reason": "開催日経過・日境界未確定のまま昇格せず終了（Makina vs Funkot・オンリー/明確セット条項も未達）",
+      "dropped_at": "2026-09-26T02:50:10Z",
+      "relevance": "makina_vs_funkot_day_boundary_unclear",
+      "url": "https://x.com/_Wam_jp/status/2098754811558818015"
+    },
+    {
+      "id": "yabai-bar-relative-week",
+      "reason": "9/20時点の相対表現（今週土曜）のまま会場/日付未確定で期限経過",
+      "dropped_at": "2026-10-18T03:02:53Z"
+    },
+    {
+      "id": "house-beat-2026-10-22",
+      "reason": "開催日（2026-10-22）経過のため掲載せず。方針変更（2026-10-23）時点で過去日",
+      "dropped_at": "2026-10-23T18:20:00+09:00",
+      "relevance": "funkot_centered_multi_baltimore_spanish_funkot",
+      "url": "https://x.com/ryu_hachi/status/2101588830528958864"
+    },
+    {
+      "id": "rising-halloween-2026-10-24",
+      "reason": "浅草STELLA 今週末告知。Funkot シグナルなし（Java Sparrow Music 等）",
+      "dropped_at": "2026-10-24T12:12:00+09:00",
+      "url": "https://x.com/AsakusaStella/status/2113827980783001833"
+    },
+    {
+      "id": "23am-eternal-2026-12-19",
+      "reason": "akisz_ RT。出演者に監視 DJ なし・Funkot シグナルなし",
+      "dropped_at": "2026-10-26T12:15:00+09:00",
+      "url": "https://x.com/23AM_ETERNAL/status/2114311738225270792"
+    },
+    {
+      "id": "tokyo-schranz-party-12-2026-11-14",
+      "reason": "浅草STELLA RT。シュランツのパーティーで Funkot シグナルなし",
+      "dropped_at": "2026-10-28T12:12:00+09:00",
+      "url": "https://x.com/emusho/status/2114840007605383648"
+    }
+  ],
+  "promoted": [
+    {
+      "id": "eurasia-drift-2026-10-23",
+      "promoted_at": "2026-10-21T23:35:00+09:00",
+      "reason": "ユーザー判断（2026-10-21 23:22 JST）で確定掲載。さえ一がファンコット軸で出演"
+    },
+    {
+      "id": "musemolt-field-trip-02-2026-10-24",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
+    },
+    {
+      "id": "chikkaidou-2026-11-22",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
+    },
+    {
+      "id": "be-music-squad-2-2026-11-29",
+      "promoted_at": "2026-10-23T18:20:00+09:00",
+      "reason": "方針変更（2026-10-23 ユーザー指示「false negative を避ける」）で tentative 掲載"
+    }
+  ]
 }
